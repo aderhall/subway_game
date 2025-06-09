@@ -1,0 +1,12 @@
+
+### Insularity and strained systems
+The society of the world into which the MC has been thrust is broken in a lot of ways. \[insert ways - e.g. corruption, stratification, lack of concern for consumer safety; generally lots of systems which are dysfunctional, but are being made to work as well as they can for now.] These problems mostly all stem from the fact that people mostly live in their own comfortable environments and don't talk/work together outside them. The somewhat-insulated upper-middle class doesn't have any reason to consider the problems of the poor, and the surface dwellers are largely oblivious to the those who find their way through the darkness below.
+
+### Cosmology
+Unbeknownst to most of the public, when people die \[and are buried?] in this city, their soul essence (spirit? marrow? some word we make up? \[sola?]) flows into and filters down through the soil, deep down to a little-known underground lake \[name?]. This is a natural process (and possibly contributes to the normal function of dreams for the people above); used to be the site of a religious pilgrimage.
+
+### Incitation
+5 or 10 years prior to the game's opening, some combo of big business + corrupt government is able to convince the lake's caretaker \[name?] to open a factory on the lake, converting its liquid to a "miracle chemical" \[drug?] \[name?], possibly by promising to refill it faster than they drain from it. (It's been refilling slower and slower over time due to X, ideally related to the progression of the world/society)
+
+### Climax
+At some climactic point, the news is going to get out that miracle-ite is made of deceased human soul parts and everything will explode - the additional strain of discovering that the supposedly easy solution is morally repugnant will overload systems which have already been stretched thin and were kind of limping along anyway. Upon discovering this, the MC has a limited time window before the metaphorical (and maybe literal) explosion happens to mitigate damages, by putting people who wouldn't think to talk with each other in contact to solve various problems. (At roughly the same time as the MC finally finds their banana, perhaps - this makes it a conscious choice to care about the world.)

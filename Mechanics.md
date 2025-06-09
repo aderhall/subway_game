@@ -9,7 +9,7 @@ I just finished Celeste and I really like how it's structured - there are 7-9 ch
 
 Also, areas can be fuzzily defined. Like stations on the borders of two areas can be relevant to both, there can be some amount of foreshadowing of areas and backtracking, etc. I'm thinking the map is somewhat linear but not perfectly, and it gets less linear farther into the game? (like a lot of Metroidvanias)
 
-Do people like this? Or would you rather the story/map be less linear, more open-world concept? (Chapters could/maybe should be just an internal organization tool/don't have to be made explicit to the player)
+Do people like this? ~~Or would you rather the story/map be less linear, more open-world concept? ~~(Chapters could/maybe should be just an internal organization tool/don't have to be made explicit to the player)
 
 **Chapter structure**
 Initial part of each chapter is exploration of new area, talking with NPCs, getting a feel for the map and structure of the place, finding boundaries, coming across important objects/people, etc. This would be the majority of the time spent in each chapter and where most of the story progression happens. Each chapter could have its own mini-arc, or have story arcs span a couple chapters. Multiple arcs can happen at once as well.
